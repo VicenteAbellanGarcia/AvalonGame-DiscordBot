@@ -263,7 +263,7 @@ class Game(object):
             
                     
 
-client.run('MzcyODkwOTQ1MDMwNDU1Mjk2.DRHGIg.qLURlzDVGn9cJLWRJavYyXaHY3Y')
+client.run('Key for discord Bot')
 
 
 
