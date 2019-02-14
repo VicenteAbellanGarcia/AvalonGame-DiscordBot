@@ -11,7 +11,7 @@ Creating the game:
 Giving rols using direct messages:
 ![alt tag](https://i.gyazo.com/a8595fae4ac4ab5a1d62020c78694d36.png)
 
-##TODO
+## TODO
 - Send private msg with pictures
 - Only send answers to the owner of the game
 - 1 person CAN'T say !me more than once
