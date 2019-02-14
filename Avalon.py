@@ -75,11 +75,7 @@ async def on_message(message):
             game = None
     
     
-    
-    #TODO
-    # -Send private msg with pictures
-    # -Only send answers to the owner of the game
-    # -1 person CAN'T say !me more than once
+
     
         
 #        for key in game.giveRoles().keys():
